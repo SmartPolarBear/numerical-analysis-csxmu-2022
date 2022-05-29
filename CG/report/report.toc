@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}原理与实现}{1}{section.1}%
+\contentsline {section}{\numberline {2}运行结果}{1}{section.2}%
+\contentsline {section}{\numberline {3}基准测试}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}运行时间}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}与高斯-赛德尔迭代法的比较}{2}{subsection.3.2}%
+\contentsline {section}{\numberline {4}结论}{2}{section.4}%
+\contentsline {section}{\numberline {A}附录：代码}{3}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}共轭梯度实现}{3}{subsection.A.1}%
